@@ -4,7 +4,7 @@
 
 I'm currently learning **Python** and exploring the world of programming. I enjoy experimenting, building projects, and learning something new every day.
 
-### 🛠️ Tech Stack
+###   Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
