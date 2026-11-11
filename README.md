@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Sander 👋
 
-<!--
-**SnowHound1/SnowHound1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🇳🇱 **Developer from the Netherlands**
 
-Here are some ideas to get you started:
+I'm currently learning **Python** and exploring the world of programming. I enjoy experimenting, building projects, and learning something new every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### 🌱 Currently
+- Learning Python 🐍
+- Improving my programming skills
+- Working on new projects
+
+### 📊 A little about me
+
+- 💻 Language: Python
+- 🚀 Goal: Become a better developer
+- ☕ Fuel: Coffee and curiosity
+
+---
+
+<p align="center">
+  <i>"Code, learn, break things, repeat."</i>
+</p>
+
